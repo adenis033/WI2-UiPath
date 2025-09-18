@@ -70,30 +70,10 @@ The automation handles client requests (WI2 items) for check copies by:
 
 ---
 
-## 📂 Repository Structure
-```
-
-📦 Research-Copy-of-Check
-┣ 📁 Documentation
-┃ ┗ 📄 PDD\_WI2.pdf
-┣ 📁 UiPath\_Workflows
-┃ ┗ 📄 Main.xaml
-┣ 📁 Logs
-┃ ┗ 📄 process\_logs.xlsx
-┣ 📁 Samples
-┃ ┣ 📄 sample\_WI2\_request.pdf
-┃ ┗ 📄 sample\_check\_copy.png
-┣ 📄 README.md
-
-````
-
----
-
 ## 🚀 Getting Started
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git```
-
+   git clone https://github.com/adenis033/WI2-UiPath.git
 2. Open the **Main.xaml** file in **UiPath Studio**.
 3. Configure Orchestrator assets:
    * Credentials for System 1 & 3.
